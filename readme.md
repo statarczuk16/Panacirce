@@ -1,6 +1,6 @@
 Copyright Notice:
 -----------------
-© 2021 Stephen Tatarczuk
+Â© 2021 Stephen Tatarczuk
 The files within this repository are copyrighted by Stephen Tatarczuk unless otherwise noted
 and may not be redistributed without written permission.
 
@@ -25,7 +25,7 @@ This is a Python program that uses natural language processing and a Latent Diri
 * panacirce_lda.py - uses LDA to create a word cloud from all cleaned_data and displays
 
 
-# Future
+# Future 
 
 * panacirce_model_builder
 ** uses cleaned_data which has been manually identified with a topic to build a predictive model
