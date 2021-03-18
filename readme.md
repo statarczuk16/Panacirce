@@ -24,6 +24,8 @@ This is a Python program that uses natural language processing and a Latent Diri
     * a column for each most common wordcloud
 * panacirce_lda.py - uses LDA to create a word cloud from all cleaned_data and displays
 
+![Output Example](https://github.com/statarczuk16/Panacirce/blob/main/example_topic_cloud_output.png
+)
 
 # Future 
 
